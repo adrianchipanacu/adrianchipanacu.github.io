@@ -1,5 +1,5 @@
 export const personalInfo = {
-  name: "Lorem Ipsum",
+  name: "J. Adrian Chipana Cueva",
   location: "Dolor Sit Amet",
   email: "lorem@ipsum.com",
   github: "https://github.com/loremipsum",
