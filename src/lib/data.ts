@@ -11,20 +11,29 @@ export const personalInfo = {
 
 export const workExperience = [
   {
-    company: "OpenAI",
-    period: "2023 - Present",
-    position: "Software Engineer", // ✅ opcional (puedes borrarlo si no quieres mostrarlo)
+    company: "Tech Corp",
+    position: "Frontend Developer",
+    period: "2022 - 2024",
     achievements: [
-      "Built scalable systems",
-      "Improved model inference speed by 30%"
-    ], // ✅ opcional (puedes borrarlo o dejar [])
+      "Built a design system with Tailwind + Shadcn",
+      "Improved performance by 30%",
+    ],
   },
   {
-    company: "Freelancer",
-    period: "2021 - 2023",
-    // ❌ no tiene position
-    // ❌ no tiene achievements
-  }
+    company: "StartupX",
+    position: "Software Engineer",
+    period: "2020 - 2022",
+    achievements: [
+      "Developed backend APIs in Node.js",
+      "Led migration to cloud services (AWS)",
+    ],
+  },
+  {
+    company: "Freelance",
+    position: "Fullstack Developer",
+    period: "2018 - 2020",
+    achievements: [], // 👈 incluso si está vacío, la sección debe aparecer
+  },
 ];
 
 export const education = [

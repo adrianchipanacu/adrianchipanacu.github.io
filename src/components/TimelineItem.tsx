@@ -6,8 +6,6 @@ interface TimelineItemProps {
   title: string;
   subtitle?: string;
   date?: string;
-  position?: string;        // ahora opcional
-  achievements?: string[];  // ahora opcional
   isLast: boolean;
   index: number;
   children?: React.ReactNode;
@@ -64,21 +62,9 @@ export default function TimelineItem({
           {subtitle && (
             <p className="text-sm text-muted-foreground">{subtitle}</p>
           )}
-          
+
           {date && (
             <p className="text-xs text-muted-foreground/70 mb-2">{date}</p>
-          )}
-
-          {position && (
-            <p className="text-sm text-muted-foreground">{position}</p>
-          )}
-
-          {achievements && achievements.length > 0 && (
-            <ul className="list-disc ml-6 space-y-2 text-sm">
-              {achievements.map((achievement, i) => (
-                <li key={i} className="text-muted-foreground">{achievement}</li>
-              ))}
-            </ul>
           )}
         </motion.div>
         <motion.div
