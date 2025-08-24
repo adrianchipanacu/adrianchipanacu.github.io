@@ -32,7 +32,7 @@ export default function ExperienceSection() {
               key={job.company + job.period}
               title={
                 job.position
-                  ? `${job.position} — ${job.company}`
+                  ? `${job.position}${job.company}`
                   : job.company
               }
               isLast={index === workExperience.length - 1}

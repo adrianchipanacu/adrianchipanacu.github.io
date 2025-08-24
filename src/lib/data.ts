@@ -12,7 +12,7 @@ export const personalInfo = {
 export const workExperience = [
   {
     company: "",
-    position: "Aún sin experiencia laboral en el campo",
+    position: "Aún sin experiencia laboral en el campo...",
     period: "",
     achievements: [], // 👈 incluso si está vacío, la sección debe aparecer
   },
@@ -34,25 +34,18 @@ export const education = [
 ];
 export const skills = {
   programmingLanguages: [
-    "LoremLang",
-    "IpsumScript",
-    "DolorLang",
-    "SitLang",
-    "AmetLang",
-    "ConsecteturLang",
+    "C",
+    "C++",
+    "Python",
   ],
   frontendDevelopment: [
-    "LoremJS",
-    "IpsumJS",
-    "Dolor Native",
-    "Sit UI",
-    "Amet CSS",
-    "HTML",
-    "CSS",
+    "Flutter | En proceso...",
   ],
-  backendDevelopment: ["LoremNode", "IpsumExpress"],
-  databaseAndStorage: ["LoremDB", "IpsumORM"],
-  cloudAndDevOps: ["LoremCloud"],
+  //backendDevelopment: [
+    //"LoremNode", "IpsumExpress"],
+  databaseAndStorage: ["MySQL | En proceso...",],
+  //cloudAndDevOps: ["LoremCloud"],
+  /*
   toolsAndServices: [
     "LoremAuth",
     "IpsumCMS",
@@ -62,6 +55,7 @@ export const skills = {
     "ConsecteturPanel",
     "AdipiscingTrigger",
   ],
+  */
 };
 
 export const projects = [
