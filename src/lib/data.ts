@@ -60,6 +60,7 @@ export const skills = {
 
 
 export const projects = [
+  /*
   {
     title: "Lorem Ipsum Project",
     github: "https://github.com/loremipsum/project",
@@ -82,10 +83,12 @@ export const projects = [
       "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.",
     ],
   },
+  */
 ];
 
 
 export const awards = [
+  /*
   {
     name: "Lorem Ipsum Award",
     issuer: "Lorem Organization",
@@ -135,6 +138,7 @@ export const awards = [
     type: "National",
     position: "Most Impactful Hack",
   },
+  */
 ];
 
 
