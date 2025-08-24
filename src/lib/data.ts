@@ -11,27 +11,9 @@ export const personalInfo = {
 
 export const workExperience = [
   {
-    company: "Tech Corp",
-    position: "Frontend Developer",
-    period: "2022 - 2024",
-    achievements: [
-      "Built a design system with Tailwind + Shadcn",
-      "Improved performance by 30%",
-    ],
-  },
-  {
-    company: "StartupX",
-    position: "Software Engineer",
-    period: "2020 - 2022",
-    achievements: [
-      "Developed backend APIs in Node.js",
-      "Led migration to cloud services (AWS)",
-    ],
-  },
-  {
-    company: "Freelance",
-    position: "Fullstack Developer",
-    period: "2018 - 2020",
+    company: "",
+    position: "Aún sin experiencia laboral en el campo",
+    period: "",
     achievements: [], // 👈 incluso si está vacío, la sección debe aparecer
   },
 ];
