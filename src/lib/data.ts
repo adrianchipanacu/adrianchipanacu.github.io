@@ -2,8 +2,8 @@ export const personalInfo = {
   name: "Adrian",
   location: "Limaa",
   email: "adrianchipana1@gmail.com",
-  github: "https://github.com/loremipsum",
-  linkedin: "https://linkedin.com/in/loremipsum",
+  github: "https://github.com/adrianchipanacu",
+  linkedin: "www.linkedin.com/in/adrian-chipana-cueva",
   profilePicture: "/profile.jpeg",
   heroDescription:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
