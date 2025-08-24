@@ -15,7 +15,6 @@ export const workExperience = [
     location: "Adipiscing, Ipsum",
     position: "",
     period: "Jun 2018 - Feb 2019",
-    achievements: [],
   },
 ];
 
