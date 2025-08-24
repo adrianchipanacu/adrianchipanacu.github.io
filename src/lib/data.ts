@@ -1,3 +1,8 @@
+export const config = {
+  showProjects: false,
+  showAwards: false,
+};
+
 export const personalInfo = {
   name: "Adrian",
   location: "Lima",
@@ -58,7 +63,7 @@ export const skills = {
   */
 };
 
-/*
+
 export const projects = [
   {
     title: "Lorem Ipsum Project",
@@ -137,4 +142,4 @@ export const awards = [
   },
 ];
 
-*/
+
