@@ -11,11 +11,20 @@ export const personalInfo = {
 
 export const workExperience = [
   {
-    company: "Sin experiencia laboral en el campo.",
-    location: "Adipiscing, Ipsum",
-    position: "",
-    period: "Jun 2018 - Feb 2019",
+    company: "OpenAI",
+    period: "2023 - Present",
+    position: "Software Engineer", // ✅ opcional (puedes borrarlo si no quieres mostrarlo)
+    achievements: [
+      "Built scalable systems",
+      "Improved model inference speed by 30%"
+    ], // ✅ opcional (puedes borrarlo o dejar [])
   },
+  {
+    company: "Freelancer",
+    period: "2021 - 2023",
+    // ❌ no tiene position
+    // ❌ no tiene achievements
+  }
 ];
 
 export const education = [
