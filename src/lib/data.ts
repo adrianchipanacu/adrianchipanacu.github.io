@@ -58,6 +58,7 @@ export const skills = {
   */
 };
 
+/*
 export const projects = [
   {
     title: "Lorem Ipsum Project",
@@ -82,6 +83,7 @@ export const projects = [
     ],
   },
 ];
+
 
 export const awards = [
   {
@@ -134,3 +136,5 @@ export const awards = [
     position: "Most Impactful Hack",
   },
 ];
+
+*/
