@@ -29,9 +29,7 @@ export default function ExperienceSection() {
           {workExperience.map((job, index) => (
             <TimelineItem
               key={job.company + job.period}
-              title={`👨‍💻 ${job.position} | ${job.company}`}
-              subtitle={`🌍 ${job.location}`}
-              date={`📅 ${job.period}`}
+              title={`👨‍💻 ${job.position}  ${job.company}`}
               isLast={index === workExperience.length - 1}
               index={index}
             >
