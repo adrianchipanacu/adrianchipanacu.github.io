@@ -1,8 +1,3 @@
-export const config = {
-  showProjects: false,
-  showAwards: false,
-};
-
 export const personalInfo = {
   name: "Adrian",
   location: "Lima",
