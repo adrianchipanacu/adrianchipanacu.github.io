@@ -6,8 +6,7 @@ interface TimelineItemProps {
   title: string;
   subtitle?: string;
   date?: string;
-  position?: string;       // ahora también existe
-  achievements?: string[]; // opcional
+  position?: string;       // ahora también existe // opcional
   isLast?: boolean;
   index?: number;
   children?: React.ReactNode;
