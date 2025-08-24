@@ -10,7 +10,11 @@ export const personalInfo = {
 };
 
 export const workExperience = [
-  
+  {
+    achievements: [
+      "Actualmente no cuento con experiencia laboral",
+    ],
+  },
 ];
 
 export const education = [
