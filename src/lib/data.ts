@@ -6,12 +6,12 @@ export const personalInfo = {
   linkedin: "www.linkedin.com/in/adrian-chipana-cueva",
   profilePicture: "/profile.jpeg",
   heroDescription:
-    "Hola soy Adrian :D",
+    "Currently, I am an undergraduate student in Computer Science at the School of Computer Science of the Faculty of Systems Engineering and Informatics (FISI) at the National University of San Marcos (UNMSM-Peru).\nI have basic programming skills, focusing on the C++ language.",
 };
 
 export const workExperience = [
   {
-    company: "Lorem Ipsum Corp",
+    company: "👨‍💻Lorem Ipsum Corp",
     location: "Lorem City",
     position: "Computer Science",
     period: "Jan 2020 - Present",
