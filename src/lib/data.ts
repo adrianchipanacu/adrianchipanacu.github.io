@@ -10,41 +10,7 @@ export const personalInfo = {
 };
 
 export const workExperience = [
-  {
-    company: "👨‍💻Lorem Ipsum Corp",
-    location: "Lorem City",
-    position: "Computer Science",
-    period: "Jan 2020 - Present",
-    achievements: [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
-      "Duis aute irure dolor in reprehenderit in voluptate velit esse.",
-      "Excepteur sint occaecat cupidatat non proident.",
-      "Sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Curabitur pretium tincidunt lacus. Nulla gravida orci a odio.",
-    ],
-  },
-  {
-    company: "Dolor Sit Amet",
-    location: "Ipsumville",
-    position: "Software Enginner",
-    period: "Feb 2019 - Jan 2020",
-    achievements: [
-      "Morbi in sem quis dui placerat ornare.",
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.",
-    ],
-  },
-  {
-    company: "Consectetur Inc.",
-    location: "Adipiscing, Ipsum",
-    position: "Intern",
-    period: "Jun 2018 - Feb 2019",
-    achievements: [
-      "Praesent dapibus, neque id cursus faucibus.",
-      "Fusce feugiat malesuada odio.",
-    ],
-  },
+  
 ];
 
 export const education = [
