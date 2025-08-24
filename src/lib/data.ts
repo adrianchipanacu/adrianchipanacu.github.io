@@ -15,10 +15,7 @@ export const workExperience = [
     location: "Adipiscing, Ipsum",
     position: "",
     period: "Jun 2018 - Feb 2019",
-    achievements: [
-      "Praesent dapibus, neque id cursus faucibus.",
-      "Fusce feugiat malesuada odio.",
-    ],
+    achievements: [],
   },
 ];
 
