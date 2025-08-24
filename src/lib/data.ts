@@ -1,6 +1,6 @@
 export const personalInfo = {
   name: "Adrian",
-  location: "Limaa",
+  location: "Lima",
   email: "adrianchipana1@gmail.com",
   github: "https://github.com/adrianchipanacu",
   linkedin: "www.linkedin.com/in/adrian-chipana-cueva",
@@ -28,7 +28,7 @@ export const workExperience = [
   {
     company: "Dolor Sit Amet",
     location: "Ipsumville",
-    position: "Software Developer",
+    position: "Software Enginner",
     period: "Feb 2019 - Jan 2020",
     achievements: [
       "Morbi in sem quis dui placerat ornare.",
