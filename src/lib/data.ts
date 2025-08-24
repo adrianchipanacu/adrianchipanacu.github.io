@@ -20,15 +20,11 @@ export const workExperience = [
 
 export const education = [
   {
-    institution: "Lorem Ipsum University",
-    location: "Lorem City",
+    institution: "National University of San Marcos",
+    location: "Lima, Perú",
     degree: "BSc Lorem Ipsum",
-    period: "2015 - 2019",
+    period: "2024 - 20..",
     achievements: [
-      "President of Lorem Ipsum Club",
-      "Organized multiple lorem events",
-      "Represented university in national competitions.",
-      "Graduated with honors.",
     ],
   },
 ];
