@@ -13,7 +13,7 @@ export const workExperience = [
   {
     company: "Lorem Ipsum Corp",
     location: "Lorem City",
-    position: "Lorem Engineer",
+    position: "Computer Science",
     period: "Jan 2020 - Present",
     achievements: [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
